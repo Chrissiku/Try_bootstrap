@@ -8,11 +8,11 @@
 ## Built With
 
 - Major languages : HTML & CSS
-- Technologies used : Git, Github & Linter
+- Technology used : Git, Github & Linter
 - Framework : Bootstrap5
 
 ## Live demo
- #### Clik [here](https://chrissiku.github.io/try_bootstrap/) to view the demo of this project
+ #### Clik [here](https://chrissiku.github.io/Try_bootstrap/) to view the demo of this project
 
 ## Authors
 
@@ -22,7 +22,7 @@
 - Twitter: [@twitterhandle](https://twitter.com/christian_siku)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/chris-siku-4bb53b232/)
 
-👤  **Ndikumana Isai (Colaborator 1)**
+👤  **Ndikumana Isaie (Colaborator 1)**
 
 - GitHub: [@githubhandle](https://github.com/ndikumanaisaie)
 - Twitter: [@twitterhandle](https://twitter.com/Ndikuma38670724)
