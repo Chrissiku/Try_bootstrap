@@ -72,6 +72,20 @@ section#about ul li {
   line-height: 20px;
 }
 
+footer p a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+}
+
+section#about ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
 @media screen and (min-width: 768px) {
   section.home div h1 {
     font-size: 90px;
@@ -86,19 +100,6 @@ section#about ul li {
     font-size: 18px;
     font-weight: 700;
     line-height: 30px;
-  }
-
-  section#about h2 {
-    font-size: 64px;
-    line-height: 114px;
-    font-weight: 700;
-    text-transform: capitalize;
-  }
-
-  section#about h3 {
-    font-size: 40px;
-    line-height: 52px;
-    font-weight: 500;
   }
 
   section#contact {
